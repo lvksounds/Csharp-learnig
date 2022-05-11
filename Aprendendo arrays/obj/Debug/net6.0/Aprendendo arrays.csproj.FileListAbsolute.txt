@@ -1,0 +1,15 @@
+C:\Users\lucas.freitas\Documents\C#\Aprendendo arrays\bin\Debug\net6.0\Aprendendo arrays.exe
+C:\Users\lucas.freitas\Documents\C#\Aprendendo arrays\bin\Debug\net6.0\Aprendendo arrays.deps.json
+C:\Users\lucas.freitas\Documents\C#\Aprendendo arrays\bin\Debug\net6.0\Aprendendo arrays.runtimeconfig.json
+C:\Users\lucas.freitas\Documents\C#\Aprendendo arrays\bin\Debug\net6.0\Aprendendo arrays.dll
+C:\Users\lucas.freitas\Documents\C#\Aprendendo arrays\bin\Debug\net6.0\Aprendendo arrays.pdb
+C:\Users\lucas.freitas\Documents\C#\Aprendendo arrays\obj\Debug\net6.0\Aprendendo arrays.csproj.AssemblyReference.cache
+C:\Users\lucas.freitas\Documents\C#\Aprendendo arrays\obj\Debug\net6.0\Aprendendo arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas.freitas\Documents\C#\Aprendendo arrays\obj\Debug\net6.0\Aprendendo arrays.AssemblyInfoInputs.cache
+C:\Users\lucas.freitas\Documents\C#\Aprendendo arrays\obj\Debug\net6.0\Aprendendo arrays.AssemblyInfo.cs
+C:\Users\lucas.freitas\Documents\C#\Aprendendo arrays\obj\Debug\net6.0\Aprendendo arrays.csproj.CoreCompileInputs.cache
+C:\Users\lucas.freitas\Documents\C#\Aprendendo arrays\obj\Debug\net6.0\Aprendendo arrays.dll
+C:\Users\lucas.freitas\Documents\C#\Aprendendo arrays\obj\Debug\net6.0\refint\Aprendendo arrays.dll
+C:\Users\lucas.freitas\Documents\C#\Aprendendo arrays\obj\Debug\net6.0\Aprendendo arrays.pdb
+C:\Users\lucas.freitas\Documents\C#\Aprendendo arrays\obj\Debug\net6.0\Aprendendo arrays.genruntimeconfig.cache
+C:\Users\lucas.freitas\Documents\C#\Aprendendo arrays\obj\Debug\net6.0\ref\Aprendendo arrays.dll
