@@ -1,0 +1,15 @@
+C:\Users\lucas.freitas\Documents\C#\TesteWhile.Break.Continue\bin\Debug\net6.0\TesteWhile.Break.Continue.exe
+C:\Users\lucas.freitas\Documents\C#\TesteWhile.Break.Continue\bin\Debug\net6.0\TesteWhile.Break.Continue.deps.json
+C:\Users\lucas.freitas\Documents\C#\TesteWhile.Break.Continue\bin\Debug\net6.0\TesteWhile.Break.Continue.runtimeconfig.json
+C:\Users\lucas.freitas\Documents\C#\TesteWhile.Break.Continue\bin\Debug\net6.0\TesteWhile.Break.Continue.dll
+C:\Users\lucas.freitas\Documents\C#\TesteWhile.Break.Continue\bin\Debug\net6.0\TesteWhile.Break.Continue.pdb
+C:\Users\lucas.freitas\Documents\C#\TesteWhile.Break.Continue\obj\Debug\net6.0\TesteWhile.Break.Continue.csproj.AssemblyReference.cache
+C:\Users\lucas.freitas\Documents\C#\TesteWhile.Break.Continue\obj\Debug\net6.0\TesteWhile.Break.Continue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas.freitas\Documents\C#\TesteWhile.Break.Continue\obj\Debug\net6.0\TesteWhile.Break.Continue.AssemblyInfoInputs.cache
+C:\Users\lucas.freitas\Documents\C#\TesteWhile.Break.Continue\obj\Debug\net6.0\TesteWhile.Break.Continue.AssemblyInfo.cs
+C:\Users\lucas.freitas\Documents\C#\TesteWhile.Break.Continue\obj\Debug\net6.0\TesteWhile.Break.Continue.csproj.CoreCompileInputs.cache
+C:\Users\lucas.freitas\Documents\C#\TesteWhile.Break.Continue\obj\Debug\net6.0\TesteWhile.Break.Continue.dll
+C:\Users\lucas.freitas\Documents\C#\TesteWhile.Break.Continue\obj\Debug\net6.0\refint\TesteWhile.Break.Continue.dll
+C:\Users\lucas.freitas\Documents\C#\TesteWhile.Break.Continue\obj\Debug\net6.0\TesteWhile.Break.Continue.pdb
+C:\Users\lucas.freitas\Documents\C#\TesteWhile.Break.Continue\obj\Debug\net6.0\TesteWhile.Break.Continue.genruntimeconfig.cache
+C:\Users\lucas.freitas\Documents\C#\TesteWhile.Break.Continue\obj\Debug\net6.0\ref\TesteWhile.Break.Continue.dll

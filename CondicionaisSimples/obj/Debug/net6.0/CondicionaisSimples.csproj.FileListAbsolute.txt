@@ -1,0 +1,15 @@
+C:\Users\lucas.freitas\Documents\C#\CondicionaisSimples\bin\Debug\net6.0\CondicionaisSimples.exe
+C:\Users\lucas.freitas\Documents\C#\CondicionaisSimples\bin\Debug\net6.0\CondicionaisSimples.deps.json
+C:\Users\lucas.freitas\Documents\C#\CondicionaisSimples\bin\Debug\net6.0\CondicionaisSimples.runtimeconfig.json
+C:\Users\lucas.freitas\Documents\C#\CondicionaisSimples\bin\Debug\net6.0\CondicionaisSimples.dll
+C:\Users\lucas.freitas\Documents\C#\CondicionaisSimples\bin\Debug\net6.0\CondicionaisSimples.pdb
+C:\Users\lucas.freitas\Documents\C#\CondicionaisSimples\obj\Debug\net6.0\CondicionaisSimples.csproj.AssemblyReference.cache
+C:\Users\lucas.freitas\Documents\C#\CondicionaisSimples\obj\Debug\net6.0\CondicionaisSimples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas.freitas\Documents\C#\CondicionaisSimples\obj\Debug\net6.0\CondicionaisSimples.AssemblyInfoInputs.cache
+C:\Users\lucas.freitas\Documents\C#\CondicionaisSimples\obj\Debug\net6.0\CondicionaisSimples.AssemblyInfo.cs
+C:\Users\lucas.freitas\Documents\C#\CondicionaisSimples\obj\Debug\net6.0\CondicionaisSimples.csproj.CoreCompileInputs.cache
+C:\Users\lucas.freitas\Documents\C#\CondicionaisSimples\obj\Debug\net6.0\CondicionaisSimples.dll
+C:\Users\lucas.freitas\Documents\C#\CondicionaisSimples\obj\Debug\net6.0\refint\CondicionaisSimples.dll
+C:\Users\lucas.freitas\Documents\C#\CondicionaisSimples\obj\Debug\net6.0\CondicionaisSimples.pdb
+C:\Users\lucas.freitas\Documents\C#\CondicionaisSimples\obj\Debug\net6.0\CondicionaisSimples.genruntimeconfig.cache
+C:\Users\lucas.freitas\Documents\C#\CondicionaisSimples\obj\Debug\net6.0\ref\CondicionaisSimples.dll
