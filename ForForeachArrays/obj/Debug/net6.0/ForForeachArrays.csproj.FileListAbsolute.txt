@@ -1,0 +1,15 @@
+C:\Users\lucas.freitas\Documents\C#\ForForeachArrays\bin\Debug\net6.0\ForForeachArrays.exe
+C:\Users\lucas.freitas\Documents\C#\ForForeachArrays\bin\Debug\net6.0\ForForeachArrays.deps.json
+C:\Users\lucas.freitas\Documents\C#\ForForeachArrays\bin\Debug\net6.0\ForForeachArrays.runtimeconfig.json
+C:\Users\lucas.freitas\Documents\C#\ForForeachArrays\bin\Debug\net6.0\ForForeachArrays.dll
+C:\Users\lucas.freitas\Documents\C#\ForForeachArrays\bin\Debug\net6.0\ForForeachArrays.pdb
+C:\Users\lucas.freitas\Documents\C#\ForForeachArrays\obj\Debug\net6.0\ForForeachArrays.csproj.AssemblyReference.cache
+C:\Users\lucas.freitas\Documents\C#\ForForeachArrays\obj\Debug\net6.0\ForForeachArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas.freitas\Documents\C#\ForForeachArrays\obj\Debug\net6.0\ForForeachArrays.AssemblyInfoInputs.cache
+C:\Users\lucas.freitas\Documents\C#\ForForeachArrays\obj\Debug\net6.0\ForForeachArrays.AssemblyInfo.cs
+C:\Users\lucas.freitas\Documents\C#\ForForeachArrays\obj\Debug\net6.0\ForForeachArrays.csproj.CoreCompileInputs.cache
+C:\Users\lucas.freitas\Documents\C#\ForForeachArrays\obj\Debug\net6.0\ForForeachArrays.dll
+C:\Users\lucas.freitas\Documents\C#\ForForeachArrays\obj\Debug\net6.0\refint\ForForeachArrays.dll
+C:\Users\lucas.freitas\Documents\C#\ForForeachArrays\obj\Debug\net6.0\ForForeachArrays.pdb
+C:\Users\lucas.freitas\Documents\C#\ForForeachArrays\obj\Debug\net6.0\ForForeachArrays.genruntimeconfig.cache
+C:\Users\lucas.freitas\Documents\C#\ForForeachArrays\obj\Debug\net6.0\ref\ForForeachArrays.dll

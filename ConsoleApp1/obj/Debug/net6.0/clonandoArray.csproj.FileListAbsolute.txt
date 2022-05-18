@@ -1,0 +1,15 @@
+C:\Users\lucas.freitas\Documents\C#\ConsoleApp1\bin\Debug\net6.0\clonandoArray.exe
+C:\Users\lucas.freitas\Documents\C#\ConsoleApp1\bin\Debug\net6.0\clonandoArray.deps.json
+C:\Users\lucas.freitas\Documents\C#\ConsoleApp1\bin\Debug\net6.0\clonandoArray.runtimeconfig.json
+C:\Users\lucas.freitas\Documents\C#\ConsoleApp1\bin\Debug\net6.0\clonandoArray.dll
+C:\Users\lucas.freitas\Documents\C#\ConsoleApp1\bin\Debug\net6.0\clonandoArray.pdb
+C:\Users\lucas.freitas\Documents\C#\ConsoleApp1\obj\Debug\net6.0\clonandoArray.csproj.AssemblyReference.cache
+C:\Users\lucas.freitas\Documents\C#\ConsoleApp1\obj\Debug\net6.0\clonandoArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas.freitas\Documents\C#\ConsoleApp1\obj\Debug\net6.0\clonandoArray.AssemblyInfoInputs.cache
+C:\Users\lucas.freitas\Documents\C#\ConsoleApp1\obj\Debug\net6.0\clonandoArray.AssemblyInfo.cs
+C:\Users\lucas.freitas\Documents\C#\ConsoleApp1\obj\Debug\net6.0\clonandoArray.csproj.CoreCompileInputs.cache
+C:\Users\lucas.freitas\Documents\C#\ConsoleApp1\obj\Debug\net6.0\clonandoArray.dll
+C:\Users\lucas.freitas\Documents\C#\ConsoleApp1\obj\Debug\net6.0\refint\clonandoArray.dll
+C:\Users\lucas.freitas\Documents\C#\ConsoleApp1\obj\Debug\net6.0\clonandoArray.pdb
+C:\Users\lucas.freitas\Documents\C#\ConsoleApp1\obj\Debug\net6.0\clonandoArray.genruntimeconfig.cache
+C:\Users\lucas.freitas\Documents\C#\ConsoleApp1\obj\Debug\net6.0\ref\clonandoArray.dll
