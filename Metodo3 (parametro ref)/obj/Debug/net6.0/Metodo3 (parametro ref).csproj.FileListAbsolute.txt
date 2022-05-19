@@ -1,0 +1,15 @@
+C:\Users\lucas.freitas\Documents\C#\Metodo3 (parametro ref)\bin\Debug\net6.0\Metodo3 (parametro ref).exe
+C:\Users\lucas.freitas\Documents\C#\Metodo3 (parametro ref)\bin\Debug\net6.0\Metodo3 (parametro ref).deps.json
+C:\Users\lucas.freitas\Documents\C#\Metodo3 (parametro ref)\bin\Debug\net6.0\Metodo3 (parametro ref).runtimeconfig.json
+C:\Users\lucas.freitas\Documents\C#\Metodo3 (parametro ref)\bin\Debug\net6.0\Metodo3 (parametro ref).dll
+C:\Users\lucas.freitas\Documents\C#\Metodo3 (parametro ref)\bin\Debug\net6.0\Metodo3 (parametro ref).pdb
+C:\Users\lucas.freitas\Documents\C#\Metodo3 (parametro ref)\obj\Debug\net6.0\Metodo3 (parametro ref).csproj.AssemblyReference.cache
+C:\Users\lucas.freitas\Documents\C#\Metodo3 (parametro ref)\obj\Debug\net6.0\Metodo3 (parametro ref).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas.freitas\Documents\C#\Metodo3 (parametro ref)\obj\Debug\net6.0\Metodo3 (parametro ref).AssemblyInfoInputs.cache
+C:\Users\lucas.freitas\Documents\C#\Metodo3 (parametro ref)\obj\Debug\net6.0\Metodo3 (parametro ref).AssemblyInfo.cs
+C:\Users\lucas.freitas\Documents\C#\Metodo3 (parametro ref)\obj\Debug\net6.0\Metodo3 (parametro ref).csproj.CoreCompileInputs.cache
+C:\Users\lucas.freitas\Documents\C#\Metodo3 (parametro ref)\obj\Debug\net6.0\Metodo3 (parametro ref).dll
+C:\Users\lucas.freitas\Documents\C#\Metodo3 (parametro ref)\obj\Debug\net6.0\refint\Metodo3 (parametro ref).dll
+C:\Users\lucas.freitas\Documents\C#\Metodo3 (parametro ref)\obj\Debug\net6.0\Metodo3 (parametro ref).pdb
+C:\Users\lucas.freitas\Documents\C#\Metodo3 (parametro ref)\obj\Debug\net6.0\Metodo3 (parametro ref).genruntimeconfig.cache
+C:\Users\lucas.freitas\Documents\C#\Metodo3 (parametro ref)\obj\Debug\net6.0\ref\Metodo3 (parametro ref).dll

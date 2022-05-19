@@ -1,0 +1,15 @@
+C:\Users\lucas.freitas\Documents\C#\Metodos02 (parametros valor)\bin\Debug\net6.0\Metodos02 (parametros valor).exe
+C:\Users\lucas.freitas\Documents\C#\Metodos02 (parametros valor)\bin\Debug\net6.0\Metodos02 (parametros valor).deps.json
+C:\Users\lucas.freitas\Documents\C#\Metodos02 (parametros valor)\bin\Debug\net6.0\Metodos02 (parametros valor).runtimeconfig.json
+C:\Users\lucas.freitas\Documents\C#\Metodos02 (parametros valor)\bin\Debug\net6.0\Metodos02 (parametros valor).dll
+C:\Users\lucas.freitas\Documents\C#\Metodos02 (parametros valor)\bin\Debug\net6.0\Metodos02 (parametros valor).pdb
+C:\Users\lucas.freitas\Documents\C#\Metodos02 (parametros valor)\obj\Debug\net6.0\Metodos02 (parametros valor).csproj.AssemblyReference.cache
+C:\Users\lucas.freitas\Documents\C#\Metodos02 (parametros valor)\obj\Debug\net6.0\Metodos02 (parametros valor).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas.freitas\Documents\C#\Metodos02 (parametros valor)\obj\Debug\net6.0\Metodos02 (parametros valor).AssemblyInfoInputs.cache
+C:\Users\lucas.freitas\Documents\C#\Metodos02 (parametros valor)\obj\Debug\net6.0\Metodos02 (parametros valor).AssemblyInfo.cs
+C:\Users\lucas.freitas\Documents\C#\Metodos02 (parametros valor)\obj\Debug\net6.0\Metodos02 (parametros valor).csproj.CoreCompileInputs.cache
+C:\Users\lucas.freitas\Documents\C#\Metodos02 (parametros valor)\obj\Debug\net6.0\Metodos02 (parametros valor).dll
+C:\Users\lucas.freitas\Documents\C#\Metodos02 (parametros valor)\obj\Debug\net6.0\refint\Metodos02 (parametros valor).dll
+C:\Users\lucas.freitas\Documents\C#\Metodos02 (parametros valor)\obj\Debug\net6.0\Metodos02 (parametros valor).pdb
+C:\Users\lucas.freitas\Documents\C#\Metodos02 (parametros valor)\obj\Debug\net6.0\Metodos02 (parametros valor).genruntimeconfig.cache
+C:\Users\lucas.freitas\Documents\C#\Metodos02 (parametros valor)\obj\Debug\net6.0\ref\Metodos02 (parametros valor).dll

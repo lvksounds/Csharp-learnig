@@ -1,0 +1,15 @@
+C:\Users\lucas.freitas\Documents\C#\ParametrosOpcionais\obj\Debug\net6.0\ParametrosOpcionais.csproj.AssemblyReference.cache
+C:\Users\lucas.freitas\Documents\C#\ParametrosOpcionais\obj\Debug\net6.0\ParametrosOpcionais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas.freitas\Documents\C#\ParametrosOpcionais\obj\Debug\net6.0\ParametrosOpcionais.AssemblyInfoInputs.cache
+C:\Users\lucas.freitas\Documents\C#\ParametrosOpcionais\obj\Debug\net6.0\ParametrosOpcionais.AssemblyInfo.cs
+C:\Users\lucas.freitas\Documents\C#\ParametrosOpcionais\obj\Debug\net6.0\ParametrosOpcionais.csproj.CoreCompileInputs.cache
+C:\Users\lucas.freitas\Documents\C#\ParametrosOpcionais\bin\Debug\net6.0\ParametrosOpcionais.exe
+C:\Users\lucas.freitas\Documents\C#\ParametrosOpcionais\bin\Debug\net6.0\ParametrosOpcionais.deps.json
+C:\Users\lucas.freitas\Documents\C#\ParametrosOpcionais\bin\Debug\net6.0\ParametrosOpcionais.runtimeconfig.json
+C:\Users\lucas.freitas\Documents\C#\ParametrosOpcionais\bin\Debug\net6.0\ParametrosOpcionais.dll
+C:\Users\lucas.freitas\Documents\C#\ParametrosOpcionais\bin\Debug\net6.0\ParametrosOpcionais.pdb
+C:\Users\lucas.freitas\Documents\C#\ParametrosOpcionais\obj\Debug\net6.0\ParametrosOpcionais.dll
+C:\Users\lucas.freitas\Documents\C#\ParametrosOpcionais\obj\Debug\net6.0\refint\ParametrosOpcionais.dll
+C:\Users\lucas.freitas\Documents\C#\ParametrosOpcionais\obj\Debug\net6.0\ParametrosOpcionais.pdb
+C:\Users\lucas.freitas\Documents\C#\ParametrosOpcionais\obj\Debug\net6.0\ParametrosOpcionais.genruntimeconfig.cache
+C:\Users\lucas.freitas\Documents\C#\ParametrosOpcionais\obj\Debug\net6.0\ref\ParametrosOpcionais.dll

@@ -1,0 +1,15 @@
+C:\Users\lucas.freitas\Documents\C#\SobrecargaMetodos\bin\Debug\net6.0\SobrecargaMetodos.exe
+C:\Users\lucas.freitas\Documents\C#\SobrecargaMetodos\bin\Debug\net6.0\SobrecargaMetodos.deps.json
+C:\Users\lucas.freitas\Documents\C#\SobrecargaMetodos\bin\Debug\net6.0\SobrecargaMetodos.runtimeconfig.json
+C:\Users\lucas.freitas\Documents\C#\SobrecargaMetodos\bin\Debug\net6.0\SobrecargaMetodos.dll
+C:\Users\lucas.freitas\Documents\C#\SobrecargaMetodos\bin\Debug\net6.0\SobrecargaMetodos.pdb
+C:\Users\lucas.freitas\Documents\C#\SobrecargaMetodos\obj\Debug\net6.0\SobrecargaMetodos.csproj.AssemblyReference.cache
+C:\Users\lucas.freitas\Documents\C#\SobrecargaMetodos\obj\Debug\net6.0\SobrecargaMetodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas.freitas\Documents\C#\SobrecargaMetodos\obj\Debug\net6.0\SobrecargaMetodos.AssemblyInfoInputs.cache
+C:\Users\lucas.freitas\Documents\C#\SobrecargaMetodos\obj\Debug\net6.0\SobrecargaMetodos.AssemblyInfo.cs
+C:\Users\lucas.freitas\Documents\C#\SobrecargaMetodos\obj\Debug\net6.0\SobrecargaMetodos.csproj.CoreCompileInputs.cache
+C:\Users\lucas.freitas\Documents\C#\SobrecargaMetodos\obj\Debug\net6.0\SobrecargaMetodos.dll
+C:\Users\lucas.freitas\Documents\C#\SobrecargaMetodos\obj\Debug\net6.0\refint\SobrecargaMetodos.dll
+C:\Users\lucas.freitas\Documents\C#\SobrecargaMetodos\obj\Debug\net6.0\SobrecargaMetodos.pdb
+C:\Users\lucas.freitas\Documents\C#\SobrecargaMetodos\obj\Debug\net6.0\SobrecargaMetodos.genruntimeconfig.cache
+C:\Users\lucas.freitas\Documents\C#\SobrecargaMetodos\obj\Debug\net6.0\ref\SobrecargaMetodos.dll

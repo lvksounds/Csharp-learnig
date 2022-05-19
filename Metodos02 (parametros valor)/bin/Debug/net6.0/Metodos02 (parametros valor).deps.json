@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Metodos02 (parametros valor)/1.0.0": {
+        "runtime": {
+          "Metodos02 (parametros valor).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Metodos02 (parametros valor)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
