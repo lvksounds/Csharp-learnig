@@ -1,0 +1,15 @@
+C:\Users\lucas.freitas\Documents\C#\ArgumentoNomeados\bin\Debug\net6.0\ArgumentoNomeados.exe
+C:\Users\lucas.freitas\Documents\C#\ArgumentoNomeados\bin\Debug\net6.0\ArgumentoNomeados.deps.json
+C:\Users\lucas.freitas\Documents\C#\ArgumentoNomeados\bin\Debug\net6.0\ArgumentoNomeados.runtimeconfig.json
+C:\Users\lucas.freitas\Documents\C#\ArgumentoNomeados\bin\Debug\net6.0\ArgumentoNomeados.dll
+C:\Users\lucas.freitas\Documents\C#\ArgumentoNomeados\bin\Debug\net6.0\ArgumentoNomeados.pdb
+C:\Users\lucas.freitas\Documents\C#\ArgumentoNomeados\obj\Debug\net6.0\ArgumentoNomeados.csproj.AssemblyReference.cache
+C:\Users\lucas.freitas\Documents\C#\ArgumentoNomeados\obj\Debug\net6.0\ArgumentoNomeados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas.freitas\Documents\C#\ArgumentoNomeados\obj\Debug\net6.0\ArgumentoNomeados.AssemblyInfoInputs.cache
+C:\Users\lucas.freitas\Documents\C#\ArgumentoNomeados\obj\Debug\net6.0\ArgumentoNomeados.AssemblyInfo.cs
+C:\Users\lucas.freitas\Documents\C#\ArgumentoNomeados\obj\Debug\net6.0\ArgumentoNomeados.csproj.CoreCompileInputs.cache
+C:\Users\lucas.freitas\Documents\C#\ArgumentoNomeados\obj\Debug\net6.0\ArgumentoNomeados.dll
+C:\Users\lucas.freitas\Documents\C#\ArgumentoNomeados\obj\Debug\net6.0\refint\ArgumentoNomeados.dll
+C:\Users\lucas.freitas\Documents\C#\ArgumentoNomeados\obj\Debug\net6.0\ArgumentoNomeados.pdb
+C:\Users\lucas.freitas\Documents\C#\ArgumentoNomeados\obj\Debug\net6.0\ArgumentoNomeados.genruntimeconfig.cache
+C:\Users\lucas.freitas\Documents\C#\ArgumentoNomeados\obj\Debug\net6.0\ref\ArgumentoNomeados.dll
