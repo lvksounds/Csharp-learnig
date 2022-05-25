@@ -1,0 +1,15 @@
+C:\Users\lucas.freitas\Documents\C#\TwoSumAlgorithm\bin\Debug\net6.0\TwoSumAlgorithm.exe
+C:\Users\lucas.freitas\Documents\C#\TwoSumAlgorithm\bin\Debug\net6.0\TwoSumAlgorithm.deps.json
+C:\Users\lucas.freitas\Documents\C#\TwoSumAlgorithm\bin\Debug\net6.0\TwoSumAlgorithm.runtimeconfig.json
+C:\Users\lucas.freitas\Documents\C#\TwoSumAlgorithm\bin\Debug\net6.0\TwoSumAlgorithm.dll
+C:\Users\lucas.freitas\Documents\C#\TwoSumAlgorithm\bin\Debug\net6.0\TwoSumAlgorithm.pdb
+C:\Users\lucas.freitas\Documents\C#\TwoSumAlgorithm\obj\Debug\net6.0\TwoSumAlgorithm.csproj.AssemblyReference.cache
+C:\Users\lucas.freitas\Documents\C#\TwoSumAlgorithm\obj\Debug\net6.0\TwoSumAlgorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas.freitas\Documents\C#\TwoSumAlgorithm\obj\Debug\net6.0\TwoSumAlgorithm.AssemblyInfoInputs.cache
+C:\Users\lucas.freitas\Documents\C#\TwoSumAlgorithm\obj\Debug\net6.0\TwoSumAlgorithm.AssemblyInfo.cs
+C:\Users\lucas.freitas\Documents\C#\TwoSumAlgorithm\obj\Debug\net6.0\TwoSumAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\lucas.freitas\Documents\C#\TwoSumAlgorithm\obj\Debug\net6.0\TwoSumAlgorithm.dll
+C:\Users\lucas.freitas\Documents\C#\TwoSumAlgorithm\obj\Debug\net6.0\refint\TwoSumAlgorithm.dll
+C:\Users\lucas.freitas\Documents\C#\TwoSumAlgorithm\obj\Debug\net6.0\TwoSumAlgorithm.pdb
+C:\Users\lucas.freitas\Documents\C#\TwoSumAlgorithm\obj\Debug\net6.0\TwoSumAlgorithm.genruntimeconfig.cache
+C:\Users\lucas.freitas\Documents\C#\TwoSumAlgorithm\obj\Debug\net6.0\ref\TwoSumAlgorithm.dll

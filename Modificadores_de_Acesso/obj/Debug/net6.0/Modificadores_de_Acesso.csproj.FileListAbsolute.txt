@@ -1,0 +1,15 @@
+C:\Users\lucas.freitas\Documents\C#\Modificadores_de_Acesso\bin\Debug\net6.0\Modificadores_de_Acesso.exe
+C:\Users\lucas.freitas\Documents\C#\Modificadores_de_Acesso\bin\Debug\net6.0\Modificadores_de_Acesso.deps.json
+C:\Users\lucas.freitas\Documents\C#\Modificadores_de_Acesso\bin\Debug\net6.0\Modificadores_de_Acesso.runtimeconfig.json
+C:\Users\lucas.freitas\Documents\C#\Modificadores_de_Acesso\bin\Debug\net6.0\Modificadores_de_Acesso.dll
+C:\Users\lucas.freitas\Documents\C#\Modificadores_de_Acesso\bin\Debug\net6.0\Modificadores_de_Acesso.pdb
+C:\Users\lucas.freitas\Documents\C#\Modificadores_de_Acesso\obj\Debug\net6.0\Modificadores_de_Acesso.csproj.AssemblyReference.cache
+C:\Users\lucas.freitas\Documents\C#\Modificadores_de_Acesso\obj\Debug\net6.0\Modificadores_de_Acesso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas.freitas\Documents\C#\Modificadores_de_Acesso\obj\Debug\net6.0\Modificadores_de_Acesso.AssemblyInfoInputs.cache
+C:\Users\lucas.freitas\Documents\C#\Modificadores_de_Acesso\obj\Debug\net6.0\Modificadores_de_Acesso.AssemblyInfo.cs
+C:\Users\lucas.freitas\Documents\C#\Modificadores_de_Acesso\obj\Debug\net6.0\Modificadores_de_Acesso.csproj.CoreCompileInputs.cache
+C:\Users\lucas.freitas\Documents\C#\Modificadores_de_Acesso\obj\Debug\net6.0\Modificadores_de_Acesso.dll
+C:\Users\lucas.freitas\Documents\C#\Modificadores_de_Acesso\obj\Debug\net6.0\refint\Modificadores_de_Acesso.dll
+C:\Users\lucas.freitas\Documents\C#\Modificadores_de_Acesso\obj\Debug\net6.0\Modificadores_de_Acesso.pdb
+C:\Users\lucas.freitas\Documents\C#\Modificadores_de_Acesso\obj\Debug\net6.0\Modificadores_de_Acesso.genruntimeconfig.cache
+C:\Users\lucas.freitas\Documents\C#\Modificadores_de_Acesso\obj\Debug\net6.0\ref\Modificadores_de_Acesso.dll

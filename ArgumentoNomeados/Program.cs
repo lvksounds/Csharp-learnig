@@ -16,7 +16,7 @@ namespace ParametroOpcionais
 
             Console.WriteLine("Digite o parametro para o numero 02: (texto): ");
             parametro02 = Console.ReadLine();
-            Console.WriteLine("Agora digite o parametro opcional (texto): ");
+            Console.WriteLine("Agora digite o parametro opcional (numero): ");
             parametro01 = int.Parse(Console.ReadLine());
 
             // chamando o paramtro nomeado

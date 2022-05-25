@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "V32Rk494oFYAT40fk7OZzMJ0Pz4jskucsVN7Lpojxk0flirDLQJpO+4MMO/oyl3iF+NzU6RJfVujeYscNSL6Ng==",
+  "dgSpecHash": "MlGABMqnU5AcMBdVSHbR/EnCMla6VwdkXtfiU68MPY1ySymmKrywafBbGm8lzfIpe5Yzsvw6dNoRcY5PCLMzRg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\lucas.freitas\\Documents\\C#\\ConsoleApp1\\clonandoArray.csproj",
+  "projectFilePath": "C:\\Users\\lucas.freitas\\Documents\\C#\\ClonandoArrays\\clonandoArray.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

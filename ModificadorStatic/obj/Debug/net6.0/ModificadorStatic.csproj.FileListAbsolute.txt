@@ -1,0 +1,15 @@
+C:\Users\lucas.freitas\Documents\C#\ModificadorStatic\bin\Debug\net6.0\ModificadorStatic.exe
+C:\Users\lucas.freitas\Documents\C#\ModificadorStatic\bin\Debug\net6.0\ModificadorStatic.deps.json
+C:\Users\lucas.freitas\Documents\C#\ModificadorStatic\bin\Debug\net6.0\ModificadorStatic.runtimeconfig.json
+C:\Users\lucas.freitas\Documents\C#\ModificadorStatic\bin\Debug\net6.0\ModificadorStatic.dll
+C:\Users\lucas.freitas\Documents\C#\ModificadorStatic\bin\Debug\net6.0\ModificadorStatic.pdb
+C:\Users\lucas.freitas\Documents\C#\ModificadorStatic\obj\Debug\net6.0\ModificadorStatic.csproj.AssemblyReference.cache
+C:\Users\lucas.freitas\Documents\C#\ModificadorStatic\obj\Debug\net6.0\ModificadorStatic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas.freitas\Documents\C#\ModificadorStatic\obj\Debug\net6.0\ModificadorStatic.AssemblyInfoInputs.cache
+C:\Users\lucas.freitas\Documents\C#\ModificadorStatic\obj\Debug\net6.0\ModificadorStatic.AssemblyInfo.cs
+C:\Users\lucas.freitas\Documents\C#\ModificadorStatic\obj\Debug\net6.0\ModificadorStatic.csproj.CoreCompileInputs.cache
+C:\Users\lucas.freitas\Documents\C#\ModificadorStatic\obj\Debug\net6.0\ModificadorStatic.dll
+C:\Users\lucas.freitas\Documents\C#\ModificadorStatic\obj\Debug\net6.0\refint\ModificadorStatic.dll
+C:\Users\lucas.freitas\Documents\C#\ModificadorStatic\obj\Debug\net6.0\ModificadorStatic.pdb
+C:\Users\lucas.freitas\Documents\C#\ModificadorStatic\obj\Debug\net6.0\ModificadorStatic.genruntimeconfig.cache
+C:\Users\lucas.freitas\Documents\C#\ModificadorStatic\obj\Debug\net6.0\ref\ModificadorStatic.dll

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lucas.freitas\\Documents\\C#\\ConsoleApp1\\clonandoArray.csproj",
+      "projectUniqueName": "C:\\Users\\lucas.freitas\\Documents\\C#\\ClonandoArrays\\clonandoArray.csproj",
       "projectName": "clonandoArray",
-      "projectPath": "C:\\Users\\lucas.freitas\\Documents\\C#\\ConsoleApp1\\clonandoArray.csproj",
+      "projectPath": "C:\\Users\\lucas.freitas\\Documents\\C#\\ClonandoArrays\\clonandoArray.csproj",
       "packagesPath": "C:\\Users\\lucas.freitas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lucas.freitas\\Documents\\C#\\ConsoleApp1\\obj\\",
+      "outputPath": "C:\\Users\\lucas.freitas\\Documents\\C#\\ClonandoArrays\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
