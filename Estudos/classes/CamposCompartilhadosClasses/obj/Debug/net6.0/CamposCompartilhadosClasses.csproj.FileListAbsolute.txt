@@ -1,0 +1,15 @@
+C:\Users\lucas.freitas\Documents\C#\Estudos\classes\CamposCompartilhadosClasses\bin\Debug\net6.0\CamposCompartilhadosClasses.exe
+C:\Users\lucas.freitas\Documents\C#\Estudos\classes\CamposCompartilhadosClasses\bin\Debug\net6.0\CamposCompartilhadosClasses.deps.json
+C:\Users\lucas.freitas\Documents\C#\Estudos\classes\CamposCompartilhadosClasses\bin\Debug\net6.0\CamposCompartilhadosClasses.runtimeconfig.json
+C:\Users\lucas.freitas\Documents\C#\Estudos\classes\CamposCompartilhadosClasses\bin\Debug\net6.0\CamposCompartilhadosClasses.dll
+C:\Users\lucas.freitas\Documents\C#\Estudos\classes\CamposCompartilhadosClasses\bin\Debug\net6.0\CamposCompartilhadosClasses.pdb
+C:\Users\lucas.freitas\Documents\C#\Estudos\classes\CamposCompartilhadosClasses\obj\Debug\net6.0\CamposCompartilhadosClasses.csproj.AssemblyReference.cache
+C:\Users\lucas.freitas\Documents\C#\Estudos\classes\CamposCompartilhadosClasses\obj\Debug\net6.0\CamposCompartilhadosClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas.freitas\Documents\C#\Estudos\classes\CamposCompartilhadosClasses\obj\Debug\net6.0\CamposCompartilhadosClasses.AssemblyInfoInputs.cache
+C:\Users\lucas.freitas\Documents\C#\Estudos\classes\CamposCompartilhadosClasses\obj\Debug\net6.0\CamposCompartilhadosClasses.AssemblyInfo.cs
+C:\Users\lucas.freitas\Documents\C#\Estudos\classes\CamposCompartilhadosClasses\obj\Debug\net6.0\CamposCompartilhadosClasses.csproj.CoreCompileInputs.cache
+C:\Users\lucas.freitas\Documents\C#\Estudos\classes\CamposCompartilhadosClasses\obj\Debug\net6.0\CamposCompartilhadosClasses.dll
+C:\Users\lucas.freitas\Documents\C#\Estudos\classes\CamposCompartilhadosClasses\obj\Debug\net6.0\refint\CamposCompartilhadosClasses.dll
+C:\Users\lucas.freitas\Documents\C#\Estudos\classes\CamposCompartilhadosClasses\obj\Debug\net6.0\CamposCompartilhadosClasses.pdb
+C:\Users\lucas.freitas\Documents\C#\Estudos\classes\CamposCompartilhadosClasses\obj\Debug\net6.0\CamposCompartilhadosClasses.genruntimeconfig.cache
+C:\Users\lucas.freitas\Documents\C#\Estudos\classes\CamposCompartilhadosClasses\obj\Debug\net6.0\ref\CamposCompartilhadosClasses.dll

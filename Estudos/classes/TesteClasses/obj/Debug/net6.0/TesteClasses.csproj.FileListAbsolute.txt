@@ -1,0 +1,15 @@
+C:\Users\lucas.freitas\Documents\C#\Estudos\classes\TesteClasses\bin\Debug\net6.0\TesteClasses.exe
+C:\Users\lucas.freitas\Documents\C#\Estudos\classes\TesteClasses\bin\Debug\net6.0\TesteClasses.deps.json
+C:\Users\lucas.freitas\Documents\C#\Estudos\classes\TesteClasses\bin\Debug\net6.0\TesteClasses.runtimeconfig.json
+C:\Users\lucas.freitas\Documents\C#\Estudos\classes\TesteClasses\bin\Debug\net6.0\TesteClasses.dll
+C:\Users\lucas.freitas\Documents\C#\Estudos\classes\TesteClasses\bin\Debug\net6.0\TesteClasses.pdb
+C:\Users\lucas.freitas\Documents\C#\Estudos\classes\TesteClasses\obj\Debug\net6.0\TesteClasses.csproj.AssemblyReference.cache
+C:\Users\lucas.freitas\Documents\C#\Estudos\classes\TesteClasses\obj\Debug\net6.0\TesteClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas.freitas\Documents\C#\Estudos\classes\TesteClasses\obj\Debug\net6.0\TesteClasses.AssemblyInfoInputs.cache
+C:\Users\lucas.freitas\Documents\C#\Estudos\classes\TesteClasses\obj\Debug\net6.0\TesteClasses.AssemblyInfo.cs
+C:\Users\lucas.freitas\Documents\C#\Estudos\classes\TesteClasses\obj\Debug\net6.0\TesteClasses.csproj.CoreCompileInputs.cache
+C:\Users\lucas.freitas\Documents\C#\Estudos\classes\TesteClasses\obj\Debug\net6.0\TesteClasses.dll
+C:\Users\lucas.freitas\Documents\C#\Estudos\classes\TesteClasses\obj\Debug\net6.0\refint\TesteClasses.dll
+C:\Users\lucas.freitas\Documents\C#\Estudos\classes\TesteClasses\obj\Debug\net6.0\TesteClasses.pdb
+C:\Users\lucas.freitas\Documents\C#\Estudos\classes\TesteClasses\obj\Debug\net6.0\TesteClasses.genruntimeconfig.cache
+C:\Users\lucas.freitas\Documents\C#\Estudos\classes\TesteClasses\obj\Debug\net6.0\ref\TesteClasses.dll
